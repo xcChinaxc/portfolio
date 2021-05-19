@@ -111,7 +111,7 @@ input, select, textarea {
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #49bf9d;
+		color: #525a52;
 		text-decoration: none;
 	}
 
@@ -2446,8 +2446,8 @@ input, select, textarea {
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		background-color: transparent;
 		border-radius: 0.35em;
-		border: solid 3px rgba(255, 255, 255, 0.25);
-		color: rgba(255, 255, 255, 0.5) !important;
+		border: solid 3px rgba(82, 90, 82, 0.45);
+		color: rgba(82, 90, 82, 0.45) !important;
 		cursor: pointer;
 		display: inline-block;
 		font-weight: 400;
